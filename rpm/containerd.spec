@@ -159,6 +159,10 @@ done
 
 
 %changelog
+* Fri Aug 29 2025 CL0Pinette <me@cl0pinette.fr> - 2.1.4-3.1
+- Update containerd binary to v2.1.4
+- Update runc binary to v1.3.0
+
 * Mon Mar 31 2025 Paweł Gronowski <pawel.gronowski@docker.com> - 1.7.27-3.1
 - Update containerd binary to v1.7.27
 
